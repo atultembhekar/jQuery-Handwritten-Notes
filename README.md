@@ -5,3 +5,4 @@
 ![4](https://github.com/atultembhekar/jQuery-Handwritten-Notes/assets/127327717/bf6dea89-1679-408a-a1d0-d341f661e30e)
 ![5](https://github.com/atultembhekar/jQuery-Handwritten-Notes/assets/127327717/9076d60c-7051-450e-a09b-f13bbc58a8da)
 ![6](https://github.com/atultembhekar/jQuery-Handwritten-Notes/assets/127327717/18744a3a-7971-4ebe-96f8-3f1d775a64bf)
+![7](https://github.com/atultembhekar/jQuery-Handwritten-Notes/assets/127327717/c7463728-fba7-4798-8422-fbeb9ddaf004)
